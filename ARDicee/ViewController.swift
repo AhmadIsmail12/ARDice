@@ -36,8 +36,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 //            diceNode.position = SCNVector3(0, 0, -0.1)
 //            sceneView.scene.rootNode.addChildNode(diceNode)
        // }
-        var y = 2
-        print(y)
+        var z = 2
+        print(z)
     }
     
     override func viewWillAppear(_ animated: Bool) {
